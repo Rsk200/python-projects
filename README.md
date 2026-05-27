@@ -20,20 +20,6 @@ If you are a beginner looking for inspiration, feel free to explore the code. Ea
 
 ---
 
-## 🚀 Projects Included
-
-### 1. [🧮 Simple Calculator](./Simple%20Calculator/)
-A robust, interactive command-line calculator.
-- **Concepts Learned:** `while` loops, `try/except` error handling, lambda functions, file I/O (saving history), and modern `match/case` statements.
-- **Highlights:** Prevents crashes from bad user input and saves your calculation history to a text file!
-
-### 2. [🎯 Number Guessing Game](./Number%20Guessing/)
-A fun, interactive game where you try to guess a secret number.
-- **Concepts Learned:** `random` module, conditional logic (`if/elif/else`), user input parsing, and loop control statements (`break`/`continue`).
-
-*(More projects coming soon as I continue to learn!)*
-
----
 
 ## 💻 How to Use
 
