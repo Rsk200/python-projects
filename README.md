@@ -20,7 +20,6 @@ If you are a beginner looking for inspiration, feel free to explore the code. Ea
 
 ---
 
-
 ## 💻 How to Use
 
 To run any of these projects locally on your computer:
@@ -29,13 +28,13 @@ To run any of these projects locally on your computer:
    ```bash
    git clone https://github.com/Rsk200/python-projects.git
    ```
-2. **Navigate into the project folder:**
+2. **Navigate into a project folder:**
    ```bash
-   cd python-projects/"Simple Calculator"
+   cd python-projects/"Temperature Converter"
    ```
 3. **Run the Python file:**
    ```bash
-   python calculator.py
+   python converter.py
    ```
 
 *(Make sure you have [Python](https://www.python.org/downloads/) installed on your machine!)*
